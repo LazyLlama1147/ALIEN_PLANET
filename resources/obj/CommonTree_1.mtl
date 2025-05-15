@@ -1,0 +1,22 @@
+# Blender MTL File: 'CommonTree_1.blend'
+# Material Count: 2
+
+newmtl Green
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.6 0.1 0.8         # Alien purple leaf
+Ks 0.6 0.6 0.6
+Ke 0.1 0.05 0.2
+Ni 1.0
+d 1.0
+illum 2
+
+newmtl Wood
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.2 0.9 0.8         # Teal alien bark
+Ks 0.6 0.6 0.6
+Ke 0.05 0.1 0.1
+Ni 1.0
+d 1.0
+illum 2s
